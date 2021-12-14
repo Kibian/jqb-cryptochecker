@@ -1,5 +1,5 @@
 # jqb-cryptochecker
-Script para JQBCore que permite recuperar los valores reales de diversas cryptomonedas y guardarlos en bbdd
+Script standalone creado originalmente para el recurso GKSPhone de FiveM, que permite recuperar los valores reales de diversas cryptomonedas y guardarlos en bbdd
 
 Instrucciones:
 1· Importar a tu base de datos el script cryptos.sql
